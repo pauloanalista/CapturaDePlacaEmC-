@@ -11,7 +11,8 @@ Este é um exemplo em Windows Forms de como capturar a placa de carros baseado e
 ## Outras Referencias
 
 ### askmacgyver.com
-[API para reconhecer placas de carro/(https://askmacgyver.com/explore/program/license-plate-recognition/3X5D3d2k)
+[API para reconhecer placas de carro/](https://askmacgyver.com/explore/program/license-plate-recognition/3X5D3d2k)
+
 1000 requisições free
 
 ### EMGU
