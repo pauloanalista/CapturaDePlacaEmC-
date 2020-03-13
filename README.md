@@ -26,3 +26,10 @@ Este é um exemplo em Windows Forms de como capturar a placa de carros baseado e
 ## Melhores Algoritimos e formas de se trabalhar
 https://coredump.pt/questions/4707607/what-are-good-algorithms-for-vehicle-license-plate-detection
 
+# VEJA TAMBÉM
+## Cursos baratos!
+- [Meus cursos](https://olha.la/udemy)
+
+## Novidades, cupons de descontos e cursos gratuitos
+https://olha.la/ilovecode-receber-cupons-novidades
+
